@@ -1,0 +1,20 @@
+
+WinAnnounce.png
+size: 253,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LightPop
+  rotate: false
+  xy: 214, 154
+  size: 37, 39
+  orig: 40, 41
+  offset: 2, 1
+  index: -1
+WinGlow
+  rotate: true
+  xy: 2, 2
+  size: 191, 210
+  orig: 264, 267
+  offset: 29, 27
+  index: -1

@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "ch8.ogg",
+    "ch8.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "LuckyNumberSelect__RevealAll": [
+      1050,
+      3712.2222222222226
+    ],
+    "MultiplierWin": [
+      5100.000000000001,
+      2487.9138321995465
+    ],
+    "PrizeBonusTransition": [
+      8150,
+      3009.160997732426
+    ]
+  }
+}

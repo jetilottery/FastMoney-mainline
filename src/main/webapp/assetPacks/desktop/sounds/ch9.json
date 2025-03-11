@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "ch9.ogg",
+    "ch9.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "InstantWin": [
+      1050,
+      2792.8798185941046
+    ],
+    "PrizeBonusReveal": [
+      4100.000000000001,
+      3445.646258503401
+    ],
+    "PrizeBonusTriggered": [
+      8150,
+      2804.7845804988665
+    ]
+  }
+}

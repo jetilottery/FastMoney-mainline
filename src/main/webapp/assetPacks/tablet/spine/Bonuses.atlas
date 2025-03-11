@@ -1,0 +1,1380 @@
+
+Bonuses.jpg
+size: 1122,617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/BarsGlow
+  rotate: true
+  xy: 640, 216
+  size: 399, 323
+  orig: 399, 323
+  offset: 0, 0
+  index: -1
+nonTrans/Swirl
+  rotate: true
+  xy: 2, 2
+  size: 613, 636
+  orig: 613, 636
+  offset: 0, 0
+  index: -1
+nonTrans/WinFlash
+  rotate: false
+  xy: 640, 31
+  size: 413, 183
+  orig: 413, 183
+  offset: 0, 0
+  index: -1
+nonTrans/stars
+  rotate: true
+  xy: 965, 407
+  size: 208, 155
+  orig: 259, 178
+  offset: 22, 2
+  index: -1
+
+Bonuses2.jpg
+size: 1902,1834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/totalWinSparks/TotalWinGlow_00
+  rotate: false
+  xy: 2, 1605
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_01
+  rotate: false
+  xy: 2, 1376
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_02
+  rotate: false
+  xy: 952, 1605
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_03
+  rotate: false
+  xy: 2, 1147
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_04
+  rotate: false
+  xy: 952, 1376
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_05
+  rotate: false
+  xy: 2, 918
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_06
+  rotate: false
+  xy: 952, 1147
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_07
+  rotate: false
+  xy: 2, 689
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_08
+  rotate: false
+  xy: 952, 918
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_09
+  rotate: false
+  xy: 2, 460
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_10
+  rotate: false
+  xy: 952, 689
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_11
+  rotate: false
+  xy: 2, 231
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_12
+  rotate: false
+  xy: 952, 460
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_13
+  rotate: false
+  xy: 2, 2
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_14
+  rotate: false
+  xy: 952, 231
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_15
+  rotate: false
+  xy: 952, 2
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+
+Bonuses3.jpg
+size: 1902,1605
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/totalWinSparks/TotalWinGlow_16
+  rotate: false
+  xy: 2, 1376
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_17
+  rotate: false
+  xy: 952, 1376
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_18
+  rotate: false
+  xy: 2, 1147
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_19
+  rotate: false
+  xy: 952, 1147
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_20
+  rotate: false
+  xy: 2, 918
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_21
+  rotate: false
+  xy: 952, 918
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_22
+  rotate: false
+  xy: 2, 689
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_23
+  rotate: false
+  xy: 952, 689
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_24
+  rotate: false
+  xy: 2, 460
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_25
+  rotate: false
+  xy: 952, 460
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_26
+  rotate: false
+  xy: 2, 231
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_27
+  rotate: false
+  xy: 952, 231
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_28
+  rotate: false
+  xy: 2, 2
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinSparks/TotalWinGlow_29
+  rotate: false
+  xy: 952, 2
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+
+Bonuses4.jpg
+size: 1748,1970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelHighlight/Win_24
+  rotate: false
+  xy: 2, 1642
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_25
+  rotate: false
+  xy: 2, 1314
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_26
+  rotate: false
+  xy: 584, 1642
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_27
+  rotate: false
+  xy: 2, 986
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_28
+  rotate: false
+  xy: 584, 1314
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_29
+  rotate: false
+  xy: 1166, 1642
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_30
+  rotate: false
+  xy: 2, 658
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_31
+  rotate: false
+  xy: 584, 986
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_32
+  rotate: false
+  xy: 1166, 1314
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_33
+  rotate: false
+  xy: 2, 330
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_34
+  rotate: false
+  xy: 584, 658
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_35
+  rotate: false
+  xy: 1166, 986
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_36
+  rotate: false
+  xy: 2, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_37
+  rotate: false
+  xy: 584, 330
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_38
+  rotate: false
+  xy: 1166, 658
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_39
+  rotate: false
+  xy: 584, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_40
+  rotate: false
+  xy: 1166, 330
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_41
+  rotate: false
+  xy: 1166, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+
+Bonuses5.jpg
+size: 1748,1970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelHighlight/Win_42
+  rotate: false
+  xy: 2, 1642
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_43
+  rotate: false
+  xy: 2, 1314
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_44
+  rotate: false
+  xy: 584, 1642
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_45
+  rotate: false
+  xy: 2, 986
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_46
+  rotate: false
+  xy: 584, 1314
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_47
+  rotate: false
+  xy: 1166, 1642
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_48
+  rotate: false
+  xy: 2, 658
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_49
+  rotate: false
+  xy: 584, 986
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_50
+  rotate: false
+  xy: 1166, 1314
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_51
+  rotate: false
+  xy: 2, 330
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_52
+  rotate: false
+  xy: 584, 658
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_53
+  rotate: false
+  xy: 1166, 986
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_54
+  rotate: false
+  xy: 2, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_55
+  rotate: false
+  xy: 584, 330
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_56
+  rotate: false
+  xy: 1166, 658
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_57
+  rotate: false
+  xy: 584, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_58
+  rotate: false
+  xy: 1166, 330
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_59
+  rotate: false
+  xy: 1166, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+
+Bonuses6.jpg
+size: 1970,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelHighlight/Win_60
+  rotate: true
+  xy: 2, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_61
+  rotate: true
+  xy: 330, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_62
+  rotate: true
+  xy: 658, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_63
+  rotate: true
+  xy: 986, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_64
+  rotate: true
+  xy: 1314, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+nonTrans/WheelHighlight/Win_65
+  rotate: true
+  xy: 1642, 2
+  size: 580, 326
+  orig: 580, 326
+  offset: 0, 0
+  index: -1
+
+Bonuses7.jpg
+size: 1812,1988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelParticles/Sparticles_01
+  rotate: false
+  xy: 2, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_02
+  rotate: false
+  xy: 2, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_03
+  rotate: false
+  xy: 364, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_04
+  rotate: false
+  xy: 364, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_05
+  rotate: false
+  xy: 726, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_06
+  rotate: false
+  xy: 726, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_07
+  rotate: true
+  xy: 2, 2
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_08
+  rotate: false
+  xy: 1088, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_09
+  rotate: false
+  xy: 1088, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_10
+  rotate: false
+  xy: 1450, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_11
+  rotate: false
+  xy: 1450, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_12
+  rotate: true
+  xy: 814, 2
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses8.jpg
+size: 1812,1988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelParticles/Sparticles_13
+  rotate: false
+  xy: 2, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_14
+  rotate: false
+  xy: 2, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_15
+  rotate: false
+  xy: 364, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_16
+  rotate: false
+  xy: 364, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_17
+  rotate: false
+  xy: 726, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_18
+  rotate: false
+  xy: 726, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_19
+  rotate: true
+  xy: 2, 2
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_20
+  rotate: false
+  xy: 1088, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_21
+  rotate: false
+  xy: 1088, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_22
+  rotate: false
+  xy: 1450, 1176
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_23
+  rotate: false
+  xy: 1450, 364
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_24
+  rotate: true
+  xy: 814, 2
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses9.jpg
+size: 1812,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelParticles/Sparticles_25
+  rotate: false
+  xy: 2, 2
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_26
+  rotate: false
+  xy: 364, 2
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_27
+  rotate: false
+  xy: 726, 2
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_28
+  rotate: false
+  xy: 1088, 2
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelParticles/Sparticles_29
+  rotate: false
+  xy: 1450, 2
+  size: 360, 810
+  orig: 360, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses10.jpg
+size: 1484,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelSheen/sheen_10
+  rotate: false
+  xy: 2, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_11
+  rotate: false
+  xy: 2, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_12
+  rotate: false
+  xy: 743, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_13
+  rotate: false
+  xy: 743, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses11.jpg
+size: 1484,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelSheen/sheen_14
+  rotate: false
+  xy: 2, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_15
+  rotate: false
+  xy: 2, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_16
+  rotate: false
+  xy: 743, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_17
+  rotate: false
+  xy: 743, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses12.jpg
+size: 1484,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelSheen/sheen_18
+  rotate: false
+  xy: 2, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_19
+  rotate: false
+  xy: 2, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_20
+  rotate: false
+  xy: 743, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_21
+  rotate: false
+  xy: 743, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses13.jpg
+size: 1484,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelSheen/sheen_22
+  rotate: false
+  xy: 2, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_23
+  rotate: false
+  xy: 2, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_24
+  rotate: false
+  xy: 743, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_25
+  rotate: false
+  xy: 743, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses14.jpg
+size: 1484,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelSheen/sheen_26
+  rotate: false
+  xy: 2, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_27
+  rotate: false
+  xy: 2, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_28
+  rotate: false
+  xy: 743, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_29
+  rotate: false
+  xy: 743, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses15.jpg
+size: 1484,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelSheen/sheen_30
+  rotate: false
+  xy: 2, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_31
+  rotate: false
+  xy: 2, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_32
+  rotate: false
+  xy: 743, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_33
+  rotate: false
+  xy: 743, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses16.jpg
+size: 1484,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelSheen/sheen_34
+  rotate: false
+  xy: 2, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_35
+  rotate: false
+  xy: 2, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_36
+  rotate: false
+  xy: 743, 814
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+nonTrans/WheelSheen/sheen_37
+  rotate: false
+  xy: 743, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses17.jpg
+size: 743,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WheelSheen/sheen_38
+  rotate: false
+  xy: 2, 2
+  size: 739, 810
+  orig: 739, 810
+  offset: 0, 0
+  index: -1
+
+Bonuses.png
+size: 768,955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/BonusDiamond_1
+  rotate: false
+  xy: 421, 5
+  size: 158, 159
+  orig: 180, 180
+  offset: 11, 12
+  index: -1
+trans/BonusDiamond_sparkle
+  rotate: false
+  xy: 660, 189
+  size: 81, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+trans/BonusDiamond_valueFrame
+  rotate: true
+  xy: 682, 273
+  size: 228, 84
+  orig: 228, 84
+  offset: 0, 0
+  index: -1
+trans/CoinStackGlow
+  rotate: false
+  xy: 231, 166
+  size: 234, 155
+  orig: 261, 178
+  offset: 16, 15
+  index: -1
+trans/IWstarGlow
+  rotate: false
+  xy: 231, 323
+  size: 259, 178
+  orig: 259, 178
+  offset: 0, 0
+  index: -1
+trans/TotalWinGlow
+  rotate: true
+  xy: 2, 5
+  size: 948, 227
+  orig: 948, 227
+  offset: 0, 0
+  index: -1
+trans/btn-copy
+  rotate: true
+  xy: 581, 30
+  size: 307, 77
+  orig: 361, 108
+  offset: 24, 15
+  index: -1
+trans/goldbar_1
+  rotate: true
+  xy: 492, 339
+  size: 162, 188
+  orig: 168, 191
+  offset: 6, 1
+  index: -1
+trans/goldbar_2
+  rotate: true
+  xy: 231, 2
+  size: 162, 188
+  orig: 168, 191
+  offset: 6, 1
+  index: -1
+trans/intro_glow
+  rotate: false
+  xy: 231, 503
+  size: 533, 450
+  orig: 611, 529
+  offset: 30, 46
+  index: -1
+trans/pixel_placeholder
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+Bonuses2.png
+size: 1187,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_0
+  rotate: false
+  xy: 861, 393
+  size: 162, 188
+  orig: 300, 300
+  offset: 72, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_1
+  rotate: false
+  xy: 668, 178
+  size: 162, 194
+  orig: 300, 300
+  offset: 72, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_10
+  rotate: false
+  xy: 497, 374
+  size: 178, 207
+  orig: 300, 300
+  offset: 56, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_11
+  rotate: false
+  xy: 677, 388
+  size: 182, 193
+  orig: 300, 300
+  offset: 52, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_12
+  rotate: true
+  xy: 1001, 11
+  size: 185, 180
+  orig: 300, 300
+  offset: 49, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_13
+  rotate: true
+  xy: 832, 198
+  size: 188, 169
+  orig: 300, 300
+  offset: 48, 50
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_14
+  rotate: true
+  xy: 1003, 207
+  size: 184, 178
+  orig: 300, 300
+  offset: 50, 44
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_15
+  rotate: false
+  xy: 814, 6
+  size: 185, 170
+  orig: 300, 300
+  offset: 52, 44
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_16
+  rotate: true
+  xy: 1025, 401
+  size: 180, 160
+  orig: 300, 300
+  offset: 59, 45
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_17
+  rotate: false
+  xy: 102, 6
+  size: 168, 146
+  orig: 300, 300
+  offset: 64, 44
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_18
+  rotate: false
+  xy: 272, 13
+  size: 169, 145
+  orig: 300, 300
+  offset: 65, 43
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_19
+  rotate: false
+  xy: 443, 41
+  size: 162, 118
+  orig: 300, 300
+  offset: 72, 37
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_2
+  rotate: false
+  xy: 2, 368
+  size: 162, 213
+  orig: 300, 300
+  offset: 72, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_20
+  rotate: true
+  xy: 2, 2
+  size: 150, 98
+  orig: 300, 300
+  offset: 83, 38
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_3
+  rotate: false
+  xy: 2, 154
+  size: 162, 212
+  orig: 300, 300
+  offset: 72, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_4
+  rotate: true
+  xy: 607, 2
+  size: 162, 205
+  orig: 300, 300
+  offset: 72, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_5
+  rotate: false
+  xy: 504, 166
+  size: 162, 206
+  orig: 300, 300
+  offset: 72, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_6
+  rotate: false
+  xy: 333, 372
+  size: 162, 209
+  orig: 300, 300
+  offset: 72, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_7
+  rotate: false
+  xy: 340, 161
+  size: 162, 209
+  orig: 300, 300
+  offset: 72, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_8
+  rotate: false
+  xy: 166, 371
+  size: 165, 210
+  orig: 300, 300
+  offset: 69, 55
+  index: -1
+trans/BONUS DIAMOND ICON/BONUS DIAMOND ICON_9
+  rotate: false
+  xy: 166, 160
+  size: 172, 209
+  orig: 300, 300
+  offset: 62, 55
+  index: -1
+
+Bonuses3.png
+size: 236,749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/sparks/stars_particles_38
+  rotate: false
+  xy: 2, 124
+  size: 116, 109
+  orig: 1440, 810
+  offset: 685, 349
+  index: -1
+trans/sparks/stars_particles_39
+  rotate: true
+  xy: 120, 116
+  size: 117, 110
+  orig: 1440, 810
+  offset: 686, 349
+  index: -1
+trans/sparks/stars_particles_40
+  rotate: true
+  xy: 2, 5
+  size: 117, 112
+  orig: 1440, 810
+  offset: 687, 348
+  index: -1
+trans/sparks/stars_particles_41
+  rotate: false
+  xy: 116, 2
+  size: 118, 112
+  orig: 1440, 810
+  offset: 688, 349
+  index: -1
+trans/sparks/stars_particles_42
+  rotate: true
+  xy: 111, 452
+  size: 105, 114
+  orig: 1440, 810
+  offset: 689, 348
+  index: -1
+trans/sparks/stars_particles_43
+  rotate: true
+  xy: 111, 344
+  size: 106, 114
+  orig: 1440, 810
+  offset: 690, 348
+  index: -1
+trans/sparks/stars_particles_44
+  rotate: false
+  xy: 2, 347
+  size: 107, 105
+  orig: 1440, 810
+  offset: 691, 352
+  index: -1
+trans/sparks/stars_particles_45
+  rotate: false
+  xy: 2, 238
+  size: 107, 107
+  orig: 1440, 810
+  offset: 693, 351
+  index: -1
+trans/sparks/stars_particles_46
+  rotate: false
+  xy: 111, 235
+  size: 108, 107
+  orig: 1440, 810
+  offset: 694, 351
+  index: -1
+trans/sparks/stars_particles_47
+  rotate: true
+  xy: 2, 454
+  size: 104, 107
+  orig: 1440, 810
+  offset: 695, 351
+  index: -1
+trans/sparks/stars_particles_48
+  rotate: true
+  xy: 2, 560
+  size: 100, 107
+  orig: 1440, 810
+  offset: 697, 351
+  index: -1
+trans/sparks/stars_particles_49
+  rotate: true
+  xy: 111, 559
+  size: 101, 107
+  orig: 1440, 810
+  offset: 698, 351
+  index: -1
+trans/sparks/stars_particles_50
+  rotate: true
+  xy: 89, 662
+  size: 85, 94
+  orig: 1440, 810
+  offset: 705, 360
+  index: -1
+trans/sparks/stars_particles_51
+  rotate: false
+  xy: 2, 663
+  size: 85, 84
+  orig: 1440, 810
+  offset: 707, 360
+  index: -1

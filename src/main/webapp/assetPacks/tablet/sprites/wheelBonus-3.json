@@ -1,0 +1,21 @@
+{"frames": {
+
+"inner-wheel.png":
+{
+	"frame": {"x":0,"y":0,"w":988,"h":988},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":988,"h":988},
+	"sourceSize": {"w":988,"h":988},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wheelBonus-3.png",
+	"format": "RGBA8888",
+	"size": {"w":988,"h":988},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d563d8af34f798079e8743cb9c0f27e3:59e6a405f62faf6f3f19b3e47ac3036d:735d7be9ab9d94e2d098cd0ab09eb3b7$"
+}
+}

@@ -1,0 +1,737 @@
+
+CoverAnims.jpg
+size: 1820,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/IdleSweep_00
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_01
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_02
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_28
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_29
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_03
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_04
+  rotate: false
+  xy: 204, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_05
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_06
+  rotate: false
+  xy: 204, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_07
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_08
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_09
+  rotate: false
+  xy: 406, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_10
+  rotate: false
+  xy: 608, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_11
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_12
+  rotate: false
+  xy: 608, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_13
+  rotate: false
+  xy: 810, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_14
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_15
+  rotate: false
+  xy: 810, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_16
+  rotate: false
+  xy: 1012, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_17
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_18
+  rotate: false
+  xy: 1012, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_19
+  rotate: false
+  xy: 1214, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_20
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_21
+  rotate: false
+  xy: 1214, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_22
+  rotate: false
+  xy: 1416, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_23
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_24
+  rotate: false
+  xy: 1416, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_25
+  rotate: false
+  xy: 1618, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_26
+  rotate: false
+  xy: 1416, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_27
+  rotate: false
+  xy: 1618, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+nonTrans/IdleSweep_30
+  rotate: false
+  xy: 1618, 86
+  size: 139, 116
+  orig: 139, 116
+  offset: 0, 0
+  index: -1
+
+CoverAnims.png
+size: 369,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/CoinStack
+  rotate: true
+  xy: 264, 4
+  size: 148, 103
+  orig: 148, 103
+  offset: 0, 0
+  index: -1
+Trans/Diamond
+  rotate: false
+  xy: 148, 2
+  size: 114, 150
+  orig: 200, 200
+  offset: 44, 24
+  index: -1
+Trans/YourNumberCoverBGglow
+  rotate: true
+  xy: 2, 5
+  size: 147, 144
+  orig: 159, 173
+  offset: 3, 18
+  index: -1
+
+CoverAnims2.png
+size: 778,1083
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/DiamondPop/DiamondPop_00
+  rotate: true
+  xy: 606, 483
+  size: 114, 150
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_01
+  rotate: true
+  xy: 433, 478
+  size: 114, 171
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_02
+  rotate: false
+  xy: 172, 542
+  size: 114, 175
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_03
+  rotate: false
+  xy: 170, 3
+  size: 114, 178
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_04
+  rotate: false
+  xy: 474, 6
+  size: 114, 180
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_05
+  rotate: true
+  xy: 590, 13
+  size: 114, 186
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_06
+  rotate: true
+  xy: 286, 65
+  size: 116, 186
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_07
+  rotate: false
+  xy: 169, 353
+  size: 117, 187
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_08
+  rotate: false
+  xy: 169, 719
+  size: 115, 188
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_09
+  rotate: true
+  xy: 432, 354
+  size: 122, 189
+  orig: 300, 300
+  offset: 88, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_10
+  rotate: false
+  xy: 623, 290
+  size: 127, 191
+  orig: 300, 300
+  offset: 84, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_11
+  rotate: false
+  xy: 286, 728
+  size: 137, 191
+  orig: 300, 300
+  offset: 80, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_12
+  rotate: false
+  xy: 288, 535
+  size: 143, 191
+  orig: 300, 300
+  offset: 77, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_13
+  rotate: true
+  xy: 419, 937
+  size: 144, 193
+  orig: 300, 300
+  offset: 76, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_14
+  rotate: false
+  xy: 2, 175
+  size: 148, 189
+  orig: 300, 300
+  offset: 73, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_15
+  rotate: true
+  xy: 229, 921
+  size: 160, 188
+  orig: 300, 300
+  offset: 72, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_16
+  rotate: false
+  xy: 2, 719
+  size: 165, 188
+  orig: 300, 300
+  offset: 68, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_17
+  rotate: false
+  xy: 2, 366
+  size: 165, 174
+  orig: 300, 300
+  offset: 68, 74
+  index: -1
+Trans/DiamondPop/DiamondPop_18
+  rotate: false
+  xy: 600, 599
+  size: 165, 165
+  orig: 300, 300
+  offset: 68, 72
+  index: -1
+Trans/DiamondPop/DiamondPop_19
+  rotate: false
+  xy: 599, 129
+  size: 164, 159
+  orig: 300, 300
+  offset: 68, 64
+  index: -1
+Trans/DiamondPop/DiamondPop_20
+  rotate: true
+  xy: 431, 188
+  size: 164, 166
+  orig: 300, 300
+  offset: 68, 54
+  index: -1
+Trans/DiamondPop/DiamondPop_21
+  rotate: false
+  xy: 433, 594
+  size: 165, 168
+  orig: 300, 300
+  offset: 68, 53
+  index: -1
+Trans/DiamondPop/DiamondPop_22
+  rotate: false
+  xy: 425, 764
+  size: 165, 171
+  orig: 300, 300
+  offset: 70, 52
+  index: -1
+Trans/DiamondPop/DiamondPop_23
+  rotate: false
+  xy: 2, 542
+  size: 168, 175
+  orig: 300, 300
+  offset: 69, 39
+  index: -1
+Trans/DiamondPop/DiamondPop_24
+  rotate: true
+  xy: 2, 2
+  size: 171, 166
+  orig: 300, 300
+  offset: 67, 39
+  index: -1
+Trans/DiamondPop/DiamondPop_25
+  rotate: true
+  xy: 288, 359
+  size: 174, 142
+  orig: 300, 300
+  offset: 66, 48
+  index: -1
+Trans/DiamondPop/DiamondPop_26
+  rotate: true
+  xy: 152, 183
+  size: 168, 137
+  orig: 300, 300
+  offset: 64, 53
+  index: -1
+Trans/DiamondPop/DiamondPop_27
+  rotate: true
+  xy: 291, 189
+  size: 168, 138
+  orig: 300, 300
+  offset: 65, 49
+  index: -1
+Trans/DiamondPop/DiamondPop_28
+  rotate: true
+  xy: 592, 766
+  size: 169, 129
+  orig: 300, 300
+  offset: 65, 42
+  index: -1
+Trans/DiamondPop/DiamondPop_29
+  rotate: false
+  xy: 614, 963
+  size: 162, 118
+  orig: 300, 300
+  offset: 72, 37
+  index: -1
+Trans/DiamondPop/DiamondPop_30
+  rotate: false
+  xy: 2, 909
+  size: 225, 172
+  orig: 320, 267
+  offset: 43, 47
+  index: -1
+
+CoverAnims3.png
+size: 1972,1853
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/YourPop/YourPop_00
+  rotate: false
+  xy: 2, 1850
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Trans/YourPop/YourPop_35
+  rotate: false
+  xy: 2, 1850
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Trans/YourPop/YourPop_01
+  rotate: false
+  xy: 5, 1673
+  size: 269, 178
+  orig: 1000, 1000
+  offset: 378, 416
+  index: -1
+Trans/YourPop/YourPop_02
+  rotate: false
+  xy: 276, 1642
+  size: 280, 209
+  orig: 1000, 1000
+  offset: 372, 403
+  index: -1
+Trans/YourPop/YourPop_03
+  rotate: false
+  xy: 1599, 1545
+  size: 371, 306
+  orig: 1000, 1000
+  offset: 308, 354
+  index: -1
+Trans/YourPop/YourPop_04
+  rotate: false
+  xy: 739, 1233
+  size: 404, 329
+  orig: 1000, 1000
+  offset: 291, 347
+  index: -1
+Trans/YourPop/YourPop_05
+  rotate: false
+  xy: 356, 878
+  size: 436, 353
+  orig: 1000, 1000
+  offset: 275, 336
+  index: -1
+Trans/YourPop/YourPop_06
+  rotate: false
+  xy: 794, 840
+  size: 466, 372
+  orig: 1000, 1000
+  offset: 260, 329
+  index: -1
+Trans/YourPop/YourPop_07
+  rotate: false
+  xy: 2, 493
+  size: 489, 383
+  orig: 1000, 1000
+  offset: 249, 324
+  index: -1
+Trans/YourPop/YourPop_08
+  rotate: false
+  xy: 558, 1580
+  size: 336, 271
+  orig: 1000, 1000
+  offset: 355, 381
+  index: -1
+Trans/YourPop/YourPop_09
+  rotate: false
+  xy: 896, 1564
+  size: 345, 287
+  orig: 1000, 1000
+  offset: 353, 373
+  index: -1
+Trans/YourPop/YourPop_10
+  rotate: false
+  xy: 1243, 1550
+  size: 354, 301
+  orig: 1000, 1000
+  offset: 350, 366
+  index: -1
+Trans/YourPop/YourPop_11
+  rotate: false
+  xy: 2, 1326
+  size: 363, 314
+  orig: 1000, 1000
+  offset: 348, 359
+  index: -1
+Trans/YourPop/YourPop_12
+  rotate: false
+  xy: 367, 1254
+  size: 370, 324
+  orig: 1000, 1000
+  offset: 346, 353
+  index: -1
+Trans/YourPop/YourPop_13
+  rotate: false
+  xy: 1145, 1214
+  size: 379, 334
+  orig: 1000, 1000
+  offset: 344, 346
+  index: -1
+Trans/YourPop/YourPop_14
+  rotate: false
+  xy: 1526, 1198
+  size: 389, 345
+  orig: 1000, 1000
+  offset: 343, 338
+  index: -1
+Trans/YourPop/YourPop_15
+  rotate: true
+  xy: 2, 927
+  size: 397, 352
+  orig: 1000, 1000
+  offset: 339, 333
+  index: -1
+Trans/YourPop/YourPop_16
+  rotate: false
+  xy: 493, 455
+  size: 410, 383
+  orig: 1000, 1000
+  offset: 332, 326
+  index: -1
+Trans/YourPop/YourPop_17
+  rotate: false
+  xy: 1262, 821
+  size: 423, 375
+  orig: 1000, 1000
+  offset: 325, 319
+  index: -1
+Trans/YourPop/YourPop_18
+  rotate: false
+  xy: 905, 434
+  size: 436, 385
+  orig: 1000, 1000
+  offset: 318, 312
+  index: -1
+Trans/YourPop/YourPop_19
+  rotate: false
+  xy: 1343, 425
+  size: 447, 394
+  orig: 1000, 1000
+  offset: 312, 305
+  index: -1
+Trans/YourPop/YourPop_20
+  rotate: false
+  xy: 2, 87
+  size: 460, 404
+  orig: 1000, 1000
+  offset: 305, 297
+  index: -1
+Trans/YourPop/YourPop_21
+  rotate: false
+  xy: 464, 21
+  size: 471, 411
+  orig: 1000, 1000
+  offset: 299, 291
+  index: -1
+Trans/YourPop/YourPop_22
+  rotate: false
+  xy: 937, 4
+  size: 482, 419
+  orig: 1000, 1000
+  offset: 293, 284
+  index: -1
+Trans/YourPop/YourPop_23
+  rotate: false
+  xy: 1421, 2
+  size: 495, 421
+  orig: 1000, 1000
+  offset: 288, 281
+  index: -1
+
+CoverAnims4.png
+size: 2023,1987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/YourPop/YourPop_24
+  rotate: true
+  xy: 1596, 41
+  size: 508, 423
+  orig: 1000, 1000
+  offset: 282, 278
+  index: -1
+Trans/YourPop/YourPop_25
+  rotate: true
+  xy: 1596, 551
+  size: 520, 425
+  orig: 1000, 1000
+  offset: 277, 274
+  index: -1
+Trans/YourPop/YourPop_26
+  rotate: true
+  xy: 1170, 204
+  size: 531, 424
+  orig: 1000, 1000
+  offset: 272, 272
+  index: -1
+Trans/YourPop/YourPop_27
+  rotate: false
+  xy: 1290, 1073
+  size: 550, 436
+  orig: 1000, 1000
+  offset: 259, 256
+  index: -1
+Trans/YourPop/YourPop_28
+  rotate: false
+  xy: 1290, 1511
+  size: 569, 474
+  orig: 1000, 1000
+  offset: 246, 214
+  index: -1
+Trans/YourPop/YourPop_29
+  rotate: true
+  xy: 656, 737
+  size: 587, 516
+  orig: 1000, 1000
+  offset: 233, 168
+  index: -1
+Trans/YourPop/YourPop_30
+  rotate: true
+  xy: 611, 21
+  size: 607, 557
+  orig: 1000, 1000
+  offset: 218, 116
+  index: -1
+Trans/YourPop/YourPop_31
+  rotate: true
+  xy: 2, 2
+  size: 626, 607
+  orig: 1000, 1000
+  offset: 202, 59
+  index: -1
+Trans/YourPop/YourPop_32
+  rotate: false
+  xy: 644, 1326
+  size: 644, 659
+  orig: 1000, 1000
+  offset: 186, 0
+  index: -1
+Trans/YourPop/YourPop_33
+  rotate: true
+  xy: 2, 630
+  size: 666, 652
+  orig: 1000, 1000
+  offset: 169, 0
+  index: -1
+Trans/YourPop/YourPop_34
+  rotate: true
+  xy: 2, 1298
+  size: 687, 640
+  orig: 1000, 1000
+  offset: 151, 0
+  index: -1
